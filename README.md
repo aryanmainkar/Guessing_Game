@@ -47,9 +47,9 @@ GameFrame.java contains the code for the actual game. It creates a new JFrame wi
 
 <h2 style = "font-size : 18px;">Running the Code</h2>
  <ul>
-    <li>
+ <li>
 To run the code, you will need to have Java installed on your system. You can download the latest version of Java from the official website.
-    </li>
+ </li>
     
    <li>
 Once you have Java installed, you can compile and run the code using a Java IDE such as Eclipse or NetBeans. Simply open the project in your IDE, compile the code, and run the Code6_1001844964.java file.
@@ -62,9 +62,11 @@ Ruby :
 
 $ javac *.java
 $ java Code6_1001844964
-    
+  </ul>  
  <h2 style = "font-size : 18px;">Conclusion</h2>
 <ul>
+  
+  
   <li>
 Soccer Guessing Game is a simple yet fun game that demonstrates the use of Java and the Swing library for creating graphical user interfaces. The code can be easily modified and extended to include additional features and functionality.
     </li>
