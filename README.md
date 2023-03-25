@@ -41,28 +41,29 @@ The code is written in Java and uses the Swing library for the user interface. T
 Password.java contains the code for the password prompt. It creates a new JFrame with a JPasswordField and an ActionListener that checks if the entered password is correct. If the password is correct, it launches a new instance of GameFrame.java.
    </li>
   <li>
-GameFrame.java contains the code for the actual game. It creates a new JFrame with an image of a soccer player, a text field for the user to enter their guess, and two buttons: "OK" and "Cancel". It also has an ActionListener that checks if the entered guess is correct. If the guess is correct, it displays a congratulatory message and exits the game. If the guess is incorrect, it displays an error message and allows the user to try again.
-    </li>
-<ul>
+    GameFrame.java contains the code for the actual game. It creates a new JFrame with an image of a soccer player, a text field for the user to enter their guess, and     two buttons: "OK" and "Cancel". It also has an ActionListener that checks if the entered guess is correct. If the guess is correct, it displays a congratulatory       message and exits the game. If the guess is incorrect, it displays an error message and allows the user to try again.
+  </li>
+</ul>
 
 <h2 style = "font-size : 18px;">Running the Code</h2>
  <ul>
  <li>
-To run the code, you will need to have Java installed on your system. You can download the latest version of Java from the official website.
- </li>
-    
-   <li>
-Once you have Java installed, you can compile and run the code using a Java IDE such as Eclipse or NetBeans. Simply open the project in your IDE, compile the code, and run the Code6_1001844964.java file.
+   To run the code, you will need to have Java installed on your system. You can download the latest version of Java from the official website.
+ </li>    
+  <li>
+    Once you have Java installed, you can compile and run the code using a Java IDE such as Eclipse or NetBeans. Simply open the project in your IDE, compile the code,     and run the Code6_1001844964.java file.
       </li>
    <li>
-Alternatively, you can compile and run the code from the command line using the following commands:
+      Alternatively, you can compile and run the code from the command line using the following commands:
    </li>
+    <li>
+        Ruby : 
 
-Ruby : 
-
-$ javac *.java
-$ java Code6_1001844964
+        $ javac *.java
+        $ java Code6_1001844964
+      </li>
   </ul>  
+  
  <h2 style = "font-size : 18px;">Conclusion</h2>
 <ul>
   
