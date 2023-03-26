@@ -1,6 +1,4 @@
-/*
- * Aryan Mainkar 1001844964
- */
+
 package code6_1001844964;
 
 /**
